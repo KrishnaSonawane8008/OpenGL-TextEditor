@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11DC9E54-3DFA-4E52-B779-E13FF1D1D366}|Main\\Main.vcxproj|D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{11DC9E54-3DFA-4E52-B779-E13FF1D1D366}|Main\\Main.vcxproj|solutionrelative:Main\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11DC9E54-3DFA-4E52-B779-E13FF1D1D366}|Main\\Main.vcxproj|D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11DC9E54-3DFA-4E52-B779-E13FF1D1D366}|Main\\Main.vcxproj|solutionrelative:Main\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Basic.shader",
+              "DocumentMoniker": "D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\res\\shaders\\Basic.shader",
+              "RelativeDocumentMoniker": "Main\\res\\shaders\\Basic.shader",
+              "ToolTip": "D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\res\\shaders\\Basic.shader",
+              "RelativeToolTip": "Main\\res\\shaders\\Basic.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-06T09:07:20.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Application.cpp",
               "DocumentMoniker": "D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\src\\Application.cpp",
               "RelativeDocumentMoniker": "Main\\src\\Application.cpp",
               "ToolTip": "D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\src\\Application.cpp",
               "RelativeToolTip": "Main\\src\\Application.cpp",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-25T15:36:11.511Z",
               "EditorCaption": ""
