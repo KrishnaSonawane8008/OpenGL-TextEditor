@@ -32,10 +32,9 @@
               "RelativeDocumentMoniker": "Main\\res\\shaders\\Basic.shader",
               "ToolTip": "D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\res\\shaders\\Basic.shader",
               "RelativeToolTip": "Main\\res\\shaders\\Basic.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-07-06T09:07:20.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T09:07:20.771Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Main\\src\\Application.cpp",
               "ToolTip": "D:\\OpenGL Projects\\OpenGL-TextEditor\\All Files\\Main\\src\\Application.cpp",
               "RelativeToolTip": "Main\\src\\Application.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-25T15:36:11.511Z",
               "EditorCaption": ""
